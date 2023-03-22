@@ -1,0 +1,11 @@
+.container {
+  border: 2px solid lightgray;
+  background-color: goldenrod;
+  padding: 20px;
+  width: 350px;
+  margin: 10px auto;
+  border-radius: 20px;
+  box-shadow: 2px 2px 3px 2px gray;
+}
+
+
